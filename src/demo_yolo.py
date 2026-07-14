@@ -1,6 +1,6 @@
 from ultralytics import YOLO
 
-project = "/home/student/k26/k268467/output"
+project = "/home/student/k26/k268467/Project2026/rugby_trackBall_kalman/output"
 name = "demo_yolo"  
 
 # 2. モデル名を 正しく 'yolov8n.pt' に修正
